@@ -1,7 +1,7 @@
 # PandemicVolunteers
 
 A webapp that gives vulnerable individuals a platform to request help from others during a pandemic.
-Created as a two-person group project for CSC309, written using HTML5, CSS3, React, MaterialUI, Express, and MongoDB.
+Created as a two-person group project for CSC309, using HTML5, CSS3, React, and MaterialUI for the front-end and ExpressJS and MongoDB for the back-end.
 
 * Sample Deployment: guarded-ocean-44632.herokuapp.com
 
