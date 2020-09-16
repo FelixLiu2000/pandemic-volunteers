@@ -1,8 +1,9 @@
-# team33
+# PandemicVolunteers
 
-NOTE: one of our group member (Tony) dropped the course before phase 1 is due, so our group only has 2 members in total after that.
+A webapp that gives vulnerable individuals a platform to request help from others during a pandemic.
+Created as a two-person group project for CSC309, written using HTML5, CSS3, React, MaterialUI, Express, and MongoDB.
 
-link: guarded-ocean-44632.herokuapp.com
+* Sample Deployment: guarded-ocean-44632.herokuapp.com
 
 **How to Use the Web App**
 
